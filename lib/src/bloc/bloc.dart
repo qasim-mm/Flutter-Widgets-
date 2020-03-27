@@ -22,5 +22,3 @@ _email.close();
 _password.close();
 }
 }
-
-final bloc=Bloc();
